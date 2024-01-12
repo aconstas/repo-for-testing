@@ -1,4 +1,4 @@
-function addCharacter(character) {
+function addCharacter(event) {
     var input = document.getElementById('myInput');
-    input.value += character; // Append the character
+    input.value += event.target.innerText; // Append the character
 }
