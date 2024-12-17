@@ -1,7 +1,7 @@
 USE [D365_Interface]
 GO
 
-/****** Object:  Table [dbo].[Customers]    Script Date: 12/17/2024 2:59:41 PM ******/
+/****** Object:  Table [dbo].[Farms]    Script Date: 12/17/2024 2:59:41 PM ******/
 SET ANSI_NULLS ON
 GO
 
